@@ -52,6 +52,14 @@
           Lorem Ipsum is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum typesetting
         </p>
+        <div class="registration-container-registration-section">
+          <input class="send_fields" type="text" name="full_name" />
+          <input class="send_fields" type="email" name="emailadress" />
+          <input class="send_fields" type="tel" name="phone" />
+          <button class="registration-button">Request a quote</button>
+        </div>
+
+        <div class="registration-notebook-pic"></div>
       </div>
     </div>
   </body>
