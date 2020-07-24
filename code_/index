@@ -19,25 +19,25 @@
       <nav class="header-nav-bar">
         <ul class="header-menu">
           <li class="header-menu-section">
-            <a href="#" class="nav-menu-unit-link">menu</a>
+            <a href="#" class="nav-menu-unit-link">home</a>
           </li>
           <li class="header-menu-section">
-            <a href="#" class="nav-menu-unit-link">menu</a>
+            <a href="#" class="nav-menu-unit-link">service</a>
           </li>
           <li class="header-menu-section">
-            <a href="#" class="nav-menu-unit-link">menu</a>
+            <a href="#" class="nav-menu-unit-link">about us</a>
           </li>
           <li class="header-menu-section">
-            <a href="#" class="nav-menu-unit-link">menu</a>
+            <a href="#" class="nav-menu-unit-link">pricing table</a>
           </li>
           <li class="header-menu-section">
-            <a href="#" class="nav-menu-unit-link">menu</a>
+            <a href="#" class="nav-menu-unit-link">how it work</a>
           </li>
           <li class="header-menu-section">
-            <a href="#" class="nav-menu-unit-link">menu</a>
+            <a href="#" class="nav-menu-unit-link">happy clients</a>
           </li>
           <li class="header-menu-section">
-            <a href="#" class="nav-menu-unit-link">menu</a>
+            <a href="#" class="nav-menu-unit-link">contact us</a>
           </li>
         </ul>
       </nav>

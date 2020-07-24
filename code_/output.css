@@ -18,13 +18,21 @@
 .nav-menu-unit-link {
   text-decoration: none;
   font-size: 14px;
-  color: #2b2b2b;
+  color: #868686;
   padding: 5px 13px 5px 13px;
-  margin-left: 30px;
+  margin-left: 15px;
   background-color: white;
-  font-family: sans-serif;
-  font-style: normal;
-  font-weight: bold;
+  font-family: Lato;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.nav-menu-unit-link:hover {
+  background-color: #ffbb42;
+  padding: 5px 13px 5px 13px;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
 }
 
 .header-menu {
