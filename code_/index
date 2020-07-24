@@ -5,5 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
   </head>
-  <body></body>
+  <body>
+    <div class="container">
+      <div class="header">
+        <div class="header-logo">
+          <img class="header-logo-pic" src="/parts_/Logo.png" alt="" />
+        </div>
+      </div>
+
+      <ul class="header-menu">
+        <li class="header-menu-section"></li>
+        <li class="header-menu-section"></li>
+        <li class="header-menu-section"></li>
+        <li class="header-menu-section"></li>
+        <li class="header-menu-section"></li>
+        <li class="header-menu-section"></li>
+        <li class="header-menu-section"></li>
+      </ul>
+    </div>
+  </body>
 </html>

@@ -1,5 +1,6 @@
-body {
-  color: red;
+.container {
+  margin: 0, auto;
+  max-width: 1700px;
 }
 
 /*# sourceMappingURL=output.css.map */
