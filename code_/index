@@ -11,6 +11,12 @@
     <title>Document</title>
   </head>
   <body>
+    <script>
+      "use strict";
+
+
+    </script>
+
     <div class="header">
       <div class="header-logo">
         <a class="header-logo-link"></a>
@@ -54,21 +60,21 @@
         </p>
         <div class="registration-container-registration-section">
           <input
-            class="name-field"
+            class="registration name-field"
             type="text"
             name="full_name"
             placeholder="Full Name"
           />
 
           <input
-            class="email-field"
+            class="registration email-field"
             type="email"
             name="emailadress"
             placeholder="Email Address"
           />
 
           <input
-            class="phone-field"
+            class="registration phone-field"
             type="tel"
             name="phone"
             placeholder="Phone Number"
@@ -77,7 +83,33 @@
           <button class="registration-button">Request a quote</button>
         </div>
 
-        <div class="registration-notebook-pic"></div>
+        <div class="corusel-container">
+          <div class="registration-notebook-pic"></div>
+          <div class="radio-section">
+            <input
+              type="radio"
+              id="corusel-one"
+              name="corusel-one"
+              value="huey"
+              checked
+            />
+            <input
+              type="radio"
+              id="corusel-one"
+              name="corusel-one"
+              value="huey"
+              checked
+            />
+
+            <input
+              type="radio"
+              id="corusel-one"
+              name="corusel-one"
+              value="huey"
+              checked
+            />
+          </div>
+        </div>
       </div>
     </div>
   </body>
