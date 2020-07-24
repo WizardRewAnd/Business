@@ -11,22 +11,36 @@
     <title>Document</title>
   </head>
   <body>
-    <div class="container">
-      <div class="header">
-        <div class="header-logo">
-          <img class="header-logo-pic" src="/parts_/Logo.png" alt="" />
-        </div>
+    <div class="header">
+      <div class="header-logo">
+        <a class="header-logo-link"></a>
       </div>
 
-      <ul class="header-menu">
-        <li class="header-menu-section"></li>
-        <li class="header-menu-section"></li>
-        <li class="header-menu-section"></li>
-        <li class="header-menu-section"></li>
-        <li class="header-menu-section"></li>
-        <li class="header-menu-section"></li>
-        <li class="header-menu-section"></li>
-      </ul>
+      <nav class="header-nav-bar">
+        <ul class="header-menu">
+          <li class="header-menu-section">
+            <a href="#" class="nav-menu-unit-link">menu</a>
+          </li>
+          <li class="header-menu-section">
+            <a href="#" class="nav-menu-unit-link">menu</a>
+          </li>
+          <li class="header-menu-section">
+            <a href="#" class="nav-menu-unit-link">menu</a>
+          </li>
+          <li class="header-menu-section">
+            <a href="#" class="nav-menu-unit-link">menu</a>
+          </li>
+          <li class="header-menu-section">
+            <a href="#" class="nav-menu-unit-link">menu</a>
+          </li>
+          <li class="header-menu-section">
+            <a href="#" class="nav-menu-unit-link">menu</a>
+          </li>
+          <li class="header-menu-section">
+            <a href="#" class="nav-menu-unit-link">menu</a>
+          </li>
+        </ul>
+      </nav>
     </div>
   </body>
 </html>
