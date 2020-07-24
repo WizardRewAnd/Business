@@ -53,9 +53,27 @@
           industry. Lorem Ipsum typesetting
         </p>
         <div class="registration-container-registration-section">
-          <input class="send_fields" type="text" name="full_name" />
-          <input class="send_fields" type="email" name="emailadress" />
-          <input class="send_fields" type="tel" name="phone" />
+          <input
+            class="name-field"
+            type="text"
+            name="full_name"
+            placeholder="Full Name"
+          />
+
+          <input
+            class="email-field"
+            type="email"
+            name="emailadress"
+            placeholder="Email Address"
+          />
+
+          <input
+            class="phone-field"
+            type="tel"
+            name="phone"
+            placeholder="Phone Number"
+          />
+
           <button class="registration-button">Request a quote</button>
         </div>
 
