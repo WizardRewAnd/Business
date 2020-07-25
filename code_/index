@@ -112,5 +112,105 @@
         </div>
       </div>
     </div>
+
+    <div class="our-services-container">
+      <div class="our-services-title-info">
+        <h1 class="our-services-title">OUR SERVICES</h1>
+        <p1 class="our-services-text-info"
+          >Lorem Ipsum is simply dummy Business industry.</p1
+        >
+      </div>
+      <div class="our-services">
+        <div class="our-cervices-card">
+          <div class="pic-container">
+            <img src="../parts_/1.png" alt="" class="pic-container-item" />
+          </div>
+          <div class="our-cervices-info">
+            <h3 class="our-services-info-title">HELLO</h3>
+            <p class="our-services-info-text">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
+              saepe temporibus nostrum expedita esse non illum repellat quam
+              officiis debitis minus veritatis, totam voluptatem at accusantium
+              ab distinctio deleniti commodi.
+            </p>
+          </div>
+        </div>
+
+        <div class="our-cervices-card">
+          <div class="pic-container">
+            <img src="../parts_/2.png" alt="" class="pic-container-item" />
+          </div>
+          <div class="our-cervices-info">
+            <h3 class="our-services-info-title">HELLO</h3>
+            <p class="our-services-info-text">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
+              saepe temporibus nostrum expedita esse non illum repellat quam
+              officiis debitis minus veritatis, totam voluptatem at accusantium
+              ab distinctio deleniti commodi.
+            </p>
+          </div>
+        </div>
+
+        <div class="our-cervices-card">
+          <div class="pic-container">
+            <img src="../parts_/3.png" alt="" class="pic-container-item" />
+          </div>
+          <div class="our-cervices-info">
+            <h3 class="our-services-info-title">HELLO</h3>
+            <p class="our-services-info-text">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
+              saepe temporibus nostrum expedita esse non illum repellat quam
+              officiis debitis minus veritatis, totam voluptatem at accusantium
+              ab distinctio deleniti commodi.
+            </p>
+          </div>
+        </div>
+
+        <div class="our-cervices-card">
+          <div class="pic-container">
+            <img src="../parts_/4.png" alt="" class="pic-container-item" />
+          </div>
+          <div class="our-cervices-info">
+            <h3 class="our-services-info-title">HELLO</h3>
+            <p class="our-services-info-text">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
+              saepe temporibus nostrum expedita esse non illum repellat quam
+              officiis debitis minus veritatis, totam voluptatem at accusantium
+              ab distinctio deleniti commodi.
+            </p>
+          </div>
+        </div>
+
+        <div class="our-cervices-card">
+          <div class="pic-container">
+            <img src="../parts_/5.png" alt="" class="pic-container-item" />
+          </div>
+          <div class="our-cervices-info">
+            <h3 class="our-services-info-title">HELLO</h3>
+            <p class="our-services-info-text">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
+              saepe temporibus nostrum expedita esse non illum repellat quam
+              officiis debitis minus veritatis, totam voluptatem at accusantium
+              ab distinctio deleniti commodi.
+            </p>
+          </div>
+        </div>
+
+        <div class="our-cervices-card">
+          <div class="pic-container">
+            <img src="../parts_/6.png" alt="" class="pic-container-item" />
+          </div>
+          <div class="our-cervices-info">
+            <h3 class="our-services-info-title">HELLO</h3>
+            <p class="our-services-info-text">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
+              saepe temporibus nostrum expedita esse non illum repellat quam
+              officiis debitis minus veritatis, totam voluptatem at accusantium
+              ab distinctio deleniti commodi.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
   </body>
 </html>

@@ -154,4 +154,33 @@
   cursor: pointer;
 }
 
+.our-services-container {
+  padding-top: 200px;
+  align-items: center;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1100px;
+}
+
+.our-services {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.our-services-title-info {
+  text-align: center;
+}
+
+.our-services-title {
+  color: #394b50;
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+  letter-spacing: -0.75px;
+}
+
+.our.cervices-card {
+  flex-basis: calc(100% - 120px);
+}
+
 /*# sourceMappingURL=output.css.map */
