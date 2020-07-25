@@ -90,14 +90,14 @@
               type="radio"
               id="corusel-one"
               name="corusel-one"
-              value="huey"
+              value=""
               checked
             />
             <input
               type="radio"
               id="corusel-one"
               name="corusel-one"
-              value="huey"
+              value=""
               checked
             />
 
@@ -105,7 +105,7 @@
               type="radio"
               id="corusel-one"
               name="corusel-one"
-              value="huey"
+              value=""
               checked
             />
           </div>
