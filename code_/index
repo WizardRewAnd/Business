@@ -121,92 +121,90 @@
         >
       </div>
       <div class="our-services">
-        <div class="our-cervices-card">
+        <div class="our-services-card">
           <div class="pic-container">
             <img src="../parts_/1.png" alt="" class="pic-container-item" />
           </div>
-          <div class="our-cervices-info">
-            <h3 class="our-services-info-title">HELLO</h3>
+          <div class="our-services-info">
+            <h3 class="our-services-info-title">Font-Awesome Icons</h3>
             <p class="our-services-info-text">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-              saepe temporibus nostrum expedita esse non illum repellat quam
-              officiis debitis minus veritatis, totam voluptatem at accusantium
-              ab distinctio deleniti commodi.
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              ind ustry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s, when an unknown printer.
             </p>
           </div>
         </div>
 
-        <div class="our-cervices-card">
+        <div class="our-services-card">
           <div class="pic-container">
             <img src="../parts_/2.png" alt="" class="pic-container-item" />
           </div>
-          <div class="our-cervices-info">
-            <h3 class="our-services-info-title">HELLO</h3>
+          <div class="our-services-info">
+            <h3 class="our-services-info-title">Fully Responsive Design</h3>
             <p class="our-services-info-text">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-              saepe temporibus nostrum expedita esse non illum repellat quam
-              officiis debitis minus veritatis, totam voluptatem at accusantium
-              ab distinctio deleniti commodi.
+              Many desktop publishing packages and web page editors now use
+              Lorem Ipsum as their default model text, and a search for 'lorem
+              ipsum' will uncover many web sites still in their infancy
             </p>
           </div>
         </div>
 
-        <div class="our-cervices-card">
+        <div class="our-services-card">
           <div class="pic-container">
             <img src="../parts_/3.png" alt="" class="pic-container-item" />
           </div>
-          <div class="our-cervices-info">
-            <h3 class="our-services-info-title">HELLO</h3>
+          <div class="our-services-info">
+            <h3 class="our-services-info-title">Working Contact form</h3>
             <p class="our-services-info-text">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-              saepe temporibus nostrum expedita esse non illum repellat quam
-              officiis debitis minus veritatis, totam voluptatem at accusantium
-              ab distinctio deleniti commodi.
+              Many desktop publishing packages and web page editors now use
+              Lorem Ipsum as their default model text, and a search for 'lorem
+              ipsum' will un cover many web sites still in their infancy
             </p>
           </div>
         </div>
 
-        <div class="our-cervices-card">
+        <div class="our-services-card">
           <div class="pic-container">
             <img src="../parts_/4.png" alt="" class="pic-container-item" />
           </div>
-          <div class="our-cervices-info">
-            <h3 class="our-services-info-title">HELLO</h3>
+          <div class="our-services-info">
+            <h3 class="our-services-info-title">Retina Ready icons here</h3>
             <p class="our-services-info-text">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-              saepe temporibus nostrum expedita esse non illum repellat quam
-              officiis debitis minus veritatis, totam voluptatem at accusantium
-              ab distinctio deleniti commodi.
+              There are many variations of passages of Lorem Ipsum available,
+              but the majority have suffered alteration in some form, by
+              injected humour or randomised words which don't look even slightly
+              believable. If you are going to use a passage of Lorem Ipsum, you
+              need to be sure there isn't anything
             </p>
           </div>
         </div>
 
-        <div class="our-cervices-card">
+        <div class="our-services-card">
           <div class="pic-container">
             <img src="../parts_/5.png" alt="" class="pic-container-item" />
           </div>
-          <div class="our-cervices-info">
-            <h3 class="our-services-info-title">HELLO</h3>
+          <div class="our-services-info">
+            <h3 class="our-services-info-title">Friendly Code</h3>
             <p class="our-services-info-text">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-              saepe temporibus nostrum expedita esse non illum repellat quam
-              officiis debitis minus veritatis, totam voluptatem at accusantium
-              ab distinctio deleniti commodi.
+              Finibus Bonorum et Malorum" by Cicero are also reproduced in their
+              exact original form, accompanied by English versions from the 1914
+              translation by H. Rackham
             </p>
           </div>
         </div>
 
-        <div class="our-cervices-card">
+        <div class="our-services-card">
           <div class="pic-container">
             <img src="../parts_/6.png" alt="" class="pic-container-item" />
           </div>
-          <div class="our-cervices-info">
-            <h3 class="our-services-info-title">HELLO</h3>
+          <div class="our-services-info">
+            <h3 class="our-services-info-title">
+              Flat trendy landing page Design
+            </h3>
             <p class="our-services-info-text">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
-              saepe temporibus nostrum expedita esse non illum repellat quam
-              officiis debitis minus veritatis, totam voluptatem at accusantium
-              ab distinctio deleniti commodi.
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s, when an unknown printer.
             </p>
           </div>
         </div>
