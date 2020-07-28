@@ -166,7 +166,8 @@
     padding: 90px 10px 10px 10px
     display: flex
     justify-content: flex-start
-    align-items: center
+
+    align-items: top
 
 .our-services-info
     flex-basis: calc(100% - 120px)
@@ -198,11 +199,12 @@
     margin-top: 150px
     display: flex
     background-color: #ffc155
-    background-size: cover
 
-.about-us-pic
+.about-us-pic-container
+    width: 50%
+    ackground-size: cover
+    background-image: url("../parts_/aboutUs.png")
     height: 623px
-    object-fit: cover
 
 .about-us
     margin: 0 auto
@@ -211,4 +213,45 @@
     display: flex
 
 .about-us-text-info
+    display: inline-block
+    max-width: 500px
     width: 50%
+    margin: 165px 0 0 80px
+
+.about-us-title
+    font-size: 30px
+    font-weight: 900
+    color: white
+    font-family: sans-serif
+    text-transform: uppercase
+    text-align: center
+
+.about-us-text
+    margin-top: 30px
+    font-family: sans-serif
+    font-size: 13px
+    font-weight: normal
+    font-stretch: normal
+    font-style: normal
+    line-height: 1.85
+    letter-spacing: normal
+    text-align: left
+    color: #ffffff
+
+.about-us-button
+    cursor: pointer
+    margin-top: 35px
+    background-color: #e7ad48
+    border-radius: 2px
+    border: solid 1px #e7ad48
+    font-family: sans-serif
+    font-size: 14px
+    font-weight: normal
+    font-stretch: normal
+    font-style: normal
+    line-height: normal
+    letter-spacing: normal
+    text-align: left
+    color: #ffffff
+    text-transform: uppercase
+    padding: 20px 35px 20px 35px

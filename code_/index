@@ -213,9 +213,7 @@
 
     <div class="about-us-container">
       <div class="about-us">
-        <div class="about-us-pic-container">
-          <img src="../parts_/About Us_Img.png" alt="" class="about-us-pic" />
-        </div>
+        <div class="about-us-pic-container"></div>
         <div class="about-us-text-info">
           <h1 class="about-us-title">ABout us</h1>
           <p class="about-us-text">
