@@ -230,5 +230,14 @@
         </div>
       </div>
     </div>
+
+    <div class="price-container">
+      <div class="price-text-info">
+        <h1 class="price-title">Choos your price</h1>
+        <p class="price-text">
+          Lorem Ipsum is simply dummy text of the printing typesetting .
+        </p>
+      </div>
+    </div>
   </body>
 </html>
