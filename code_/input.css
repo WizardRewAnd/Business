@@ -2,10 +2,17 @@
   margin: 0 auto;
   width: 100%;
   max-width: 1100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  box-sizing: border-box;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
 button:hover {
@@ -41,8 +48,12 @@ button:hover {
 }
 
 .header-menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: start;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: start;
   margin-top: 50px;
 }
 
@@ -57,7 +68,9 @@ button:hover {
   width: 100%;
   max-width: 1100px;
   text-align: center;
-  align-items: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 .registration-container-title {
@@ -92,9 +105,15 @@ button:hover {
 
 .registration-container-registration-section {
   margin-top: 65px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   gap: 20px;
 }
 
@@ -160,15 +179,19 @@ button:hover {
 
 .our-services-container {
   padding-top: 200px;
-  align-items: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   margin: 0 auto;
   width: 100%;
   max-width: 1100px;
 }
 
 .our-services {
+  display: -ms-grid;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
 }
 
 .our-services-title-info {
@@ -192,17 +215,25 @@ button:hover {
 
 .our-services-card {
   padding: 90px 10px 10px 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: flex-start;
-  align-items: top;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-box-align: top;
+      -ms-flex-align: top;
+          align-items: top;
 }
 
 .our-services-info {
-  flex-basis: calc(100% - 120px);
+  -ms-flex-preferred-size: calc(100% - 120px);
+      flex-basis: calc(100% - 120px);
 }
 
 .pic-container {
-  flex-basis: 90px;
+  -ms-flex-preferred-size: 90px;
+      flex-basis: 90px;
 }
 
 .our-services-info-title {
@@ -229,6 +260,8 @@ button:hover {
 
 .about-us-container {
   margin-top: 150px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
   background-color: #ffc155;
 }
@@ -244,6 +277,8 @@ button:hover {
   margin: 0 auto;
   width: 100%;
   max-width: 1700px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
 }
 
@@ -333,19 +368,33 @@ button:hover {
 }
 
 .price-card-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  align-items: row;
-  justify-content: space-around;
+  -webkit-box-align: row;
+      -ms-flex-align: row;
+          align-items: row;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
   padding-bottom: 165px;
 }
 
 .price-card {
   background-color: white;
   padding: 40px 100px 40px 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   border-radius: 3px;
   border: solid 1px #ccd5df;
 }
@@ -354,19 +403,23 @@ button:hover {
   background-color: #709dca;
   cursor: pointer;
   -webkit-transform: scale(1.2);
-  -ms-transform: scale(1.2);
   transform: scale(1.2);
+  -webkit-transition: 1s;
   transition: 1s;
 }
+
 .price-card:hover .card-title {
   color: white;
 }
+
 .price-card:hover .card-price-info {
   color: white;
 }
+
 .price-card:hover .card-price-text {
   color: white;
 }
+
 .price-card:hover .pcard-price-description-text {
   color: white;
 }
@@ -478,18 +531,26 @@ button:hover {
 }
 
 .how-it-works-steps {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
 }
 
 .step-card {
   max-width: 220px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  align-items: center;
-  flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
 }
 
 .step-card-text-info {
   text-align: center;
 }
-
-/*# sourceMappingURL=output.css.map */
+/*# sourceMappingURL=input.css.map */
