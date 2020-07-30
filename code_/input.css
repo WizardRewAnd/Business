@@ -469,6 +469,8 @@ button:hover {
 }
 
 .pcard-price-description-text {
+  padding-top: 8px;
+  border-top: 1px solid #e2e9f0;
   font-family: sans-serif;
   font-size: 14px;
   font-weight: normal;
