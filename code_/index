@@ -380,6 +380,87 @@
             We are explain who is using our business solutions
           </p>
         </div>
+
+        <div class="clients-container">
+          <div class="client-card">
+            <div class="client-card-img-container">
+              <img src="../parts_/Face.png" alt="" class="client-card-pic" />
+            </div>
+
+            <div class="client-card-text-block">
+              <p class="client-card-text-info">
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industrystandard dummy text
+                ever since the 1500s, wen an unknown printer took a galley of
+                type and scrambled to make a type specimen book.
+              </p>
+
+              <p class="client-card-text-bio">
+                <span class="special-text-bio">Darwin Michle,</span> Project
+                manager
+              </p>
+            </div>
+          </div>
+
+          <div class="client-card">
+            <div class="client-card-img-container">
+              <img src="../parts_/Face2.png" alt="" class="client-card-pic" />
+            </div>
+
+            <div class="client-card-text-block">
+              <p class="client-card-text-info">
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industrystandard dummy text
+                ever since the 1500s, wen an unknown printer took a galley of
+                type and scrambled to make a type specimen book.
+              </p>
+
+              <p class="client-card-text-bio">
+                <span class="special-text-bio">Madam Elisabath,</span> Creative
+                Director
+              </p>
+            </div>
+          </div>
+
+          <div class="client-card">
+            <div class="client-card-img-container">
+              <img src="../parts_/Face3.png" alt="" class="client-card-pic" />
+            </div>
+
+            <div class="client-card-text-block">
+              <p class="client-card-text-info">
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industrystandard dummy text
+                ever since the 1500s, wen an unknown printer took a galley of
+                type and scrambled to make a type specimen book.
+              </p>
+
+              <p class="client-card-text-bio">
+                <span class="special-text-bio">Clips arter,</span> Lipsum
+                directer
+              </p>
+            </div>
+          </div>
+
+          <div class="client-card">
+            <div class="client-card-img-container">
+              <img src="../parts_/Face4.png" alt="" class="client-card-pic" />
+            </div>
+
+            <div class="client-card-text-block">
+              <p class="client-card-text-info">
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industrystandard dummy text
+                ever since the 1500s, wen an unknown printer took a galley of
+                type and scrambled to make a type specimen book.
+              </p>
+
+              <p class="client-card-text-bio">
+                <span class="special-text-bio">zam cristafr,</span> manager
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </body>

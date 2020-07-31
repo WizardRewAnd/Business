@@ -502,7 +502,7 @@ button:hover {
 
 .how-it-works-content {
   margin: 0 auto;
-  max-width: 1100px;
+  max-width: 1200px;
   width: 100%;
 }
 
@@ -533,12 +533,14 @@ button:hover {
 }
 
 .how-it-works-steps {
+  margin-top: 80px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
 }
 
 .step-card {
+  margin-top: 45px;
   max-width: 220px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -553,6 +555,165 @@ button:hover {
 }
 
 .step-card-text-info {
+  margin-top: 100px;
   text-align: center;
+}
+
+.step-card-title {
+  color: #394b50;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.1;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.step-card-text {
+  font-family: sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.69;
+  letter-spacing: normal;
+  text-align: center;
+  color: #7b7b7b;
+}
+
+.step-arrow-middle {
+  margin-top: 120px;
+}
+
+.steps-button {
+  cursor: pointer;
+  margin-top: 90px;
+  background-color: #ffbb42;
+  width: 170px;
+  height: 50px;
+  border-radius: 2px;
+  border: solid 1px #e7ad48;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.button-container {
+  margin: 0 auto;
+  max-width: 1300px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.happy-clients-section {
+  margin-top: 150px;
+  background-color: #ffc155;
+  background-size: cover;
+}
+
+.happy-clients-info {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1100px;
+}
+
+.happy-clients-text-section {
+  text-align: center;
+  padding: 140px 0 58px 0;
+}
+
+.client-card-img-container {
+  padding-right: 30px;
+}
+
+.clients-container {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: 1fr 1fr;
+      grid-template-rows: 1fr 1fr;
+  gap: 20px 25px;
+  padding-bottom: 150px;
+}
+
+.happy-clients-title {
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+  letter-spacing: -0.75px;
+  text-transform: uppercase;
+  color: white;
+}
+
+.happy-clients-text {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.client-card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: white;
+  padding: 40px 40px 50px 30px;
+}
+
+.client-card:hover {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+  -webkit-transition: 1s;
+  transition: 1s;
+}
+
+.client-card-text-info {
+  font-family: sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.69;
+  letter-spacing: normal;
+  color: #7b7b7b;
+}
+
+.client-card-text-bio {
+  margin-top: 30px;
+  display: inline-block;
+}
+
+.client-card-text-bio {
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.57;
+  letter-spacing: normal;
+  text-align: left;
+  color: #99a9ae;
+  text-transform: uppercase;
+}
+
+.special-text-bio {
+  color: #f6772c;
 }
 /*# sourceMappingURL=input.css.map */
