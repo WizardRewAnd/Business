@@ -333,7 +333,7 @@
             </div>
           </div>
 
-          <div class="step-arrow">
+          <div class="step-arrow-middle">
             <img src="../parts_/Arrow_2.png" alt="" class="step-arrow-img" />
           </div>
 
@@ -365,6 +365,20 @@
               </p>
             </div>
           </div>
+        </div>
+      </div>
+      <div class="button-container">
+        <button class="steps-button">GET START NOW</button>
+      </div>
+    </div>
+
+    <div class="happy-clients-section">
+      <div class="happy-clients-info">
+        <div class="happy-clients-text-section">
+          <h1 class="happy-clients-title">Happy Clients</h1>
+          <p class="happy-clients-text">
+            We are explain who is using our business solutions
+          </p>
         </div>
       </div>
     </div>
