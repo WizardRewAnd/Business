@@ -463,5 +463,13 @@
         </div>
       </div>
     </div>
+
+    <div class="news-container">
+      <div class="news-info-block">
+        <div class="news-info-text">
+          
+        </div>
+      </div>
+    </div>
   </body>
 </html>
