@@ -1,475 +1,447 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css"
-    />
-    <link rel="stylesheet" href="output.css" />
-    <title>Document</title>
-  </head>
-  <body>
-    <script>
-      "use strict";
 
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css" />
+  <link rel="stylesheet" href="output.css" />
+  <title>Document</title>
+</head>
 
-    </script>
+<body>
+  <script>
+    "use strict";
+  </script>
 
-    <div class="header">
-      <div class="header-logo">
-        <a class="header-logo-link"></a>
-      </div>
-
-      <nav class="header-nav-bar">
-        <ul class="header-menu">
-          <li class="header-menu-section">
-            <a href="#" class="nav-menu-unit-link">home</a>
-          </li>
-          <li class="header-menu-section">
-            <a href="#" class="nav-menu-unit-link">service</a>
-          </li>
-          <li class="header-menu-section">
-            <a href="#" class="nav-menu-unit-link">about us</a>
-          </li>
-          <li class="header-menu-section">
-            <a href="#" class="nav-menu-unit-link">pricing table</a>
-          </li>
-          <li class="header-menu-section">
-            <a href="#" class="nav-menu-unit-link">how it work</a>
-          </li>
-          <li class="header-menu-section">
-            <a href="#" class="nav-menu-unit-link">happy clients</a>
-          </li>
-          <li class="header-menu-section">
-            <a href="#" class="nav-menu-unit-link">contact us</a>
-          </li>
-        </ul>
-      </nav>
+  <div class="header">
+    <div class="header-logo">
+      <a class="header-logo-link"></a>
     </div>
 
-    <div class="registration-container">
-      <div class="registration-container-info">
-        <h1 class="registration-container-title">
-          Boost up your Local business
-        </h1>
-        <p class="registration-container-text">
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum typesetting
-        </p>
-        <div class="registration-container-registration-section">
-          <input
-            class="registration name-field"
-            type="text"
-            name="full_name"
-            placeholder="Full Name"
-          />
+    <nav class="header-nav-bar">
+      <ul class="header-menu">
+        <li class="header-menu-section">
+          <a href="#" class="nav-menu-unit-link">home</a>
+        </li>
+        <li class="header-menu-section">
+          <a href="#" class="nav-menu-unit-link">service</a>
+        </li>
+        <li class="header-menu-section">
+          <a href="#" class="nav-menu-unit-link">about us</a>
+        </li>
+        <li class="header-menu-section">
+          <a href="#" class="nav-menu-unit-link">pricing table</a>
+        </li>
+        <li class="header-menu-section">
+          <a href="#" class="nav-menu-unit-link">how it work</a>
+        </li>
+        <li class="header-menu-section">
+          <a href="#" class="nav-menu-unit-link">happy clients</a>
+        </li>
+        <li class="header-menu-section">
+          <a href="#" class="nav-menu-unit-link">contact us</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
 
-          <input
-            class="registration email-field"
-            type="email"
-            name="emailadress"
-            placeholder="Email Address"
-          />
+  <div class="registration-container">
+    <div class="registration-container-info">
+      <h1 class="registration-container-title">
+        Boost up your Local business
+      </h1>
+      <p class="registration-container-text">
+        Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum typesetting
+      </p>
+      <div class="registration-container-registration-section">
+        <input class="registration name-field" type="text" name="full_name" placeholder="Full Name" />
 
-          <input
-            class="registration phone-field"
-            type="tel"
-            name="phone"
-            placeholder="Phone Number"
-          />
+        <input class="registration email-field" type="email" name="emailadress" placeholder="Email Address" />
 
-          <button class="registration-button">Request a quote</button>
-        </div>
+        <input class="registration phone-field" type="tel" name="phone" placeholder="Phone Number" />
 
-        <div class="corusel-container">
-          <div class="registration-notebook-pic"></div>
-          <div class="radio-section">
-            <input
-              type="radio"
-              id="corusel-one"
-              name="corusel-one"
-              value=""
-              checked
-            />
-            <input
-              type="radio"
-              id="corusel-one"
-              name="corusel-one"
-              value=""
-              checked
-            />
+        <button class="registration-button">Request a quote</button>
+      </div>
 
-            <input
-              type="radio"
-              id="corusel-one"
-              name="corusel-one"
-              value=""
-              checked
-            />
-          </div>
+      <div class="corusel-container">
+        <div class="registration-notebook-pic"></div>
+        <div class="radio-section">
+          <input type="radio" id="corusel-one" name="corusel-one" value="" checked />
+          <input type="radio" id="corusel-one" name="corusel-one" value="" checked />
+
+          <input type="radio" id="corusel-one" name="corusel-one" value="" checked />
         </div>
       </div>
     </div>
+  </div>
 
-    <div class="our-services-container">
-      <div class="our-services-title-info">
-        <h1 class="our-services-title">OUR SERVICES</h1>
-        <p1 class="our-services-text-info"
-          >Lorem Ipsum is simply dummy Business industry.</p1
-        >
-      </div>
-      <div class="our-services">
-        <div class="our-services-card">
-          <div class="pic-container">
-            <img src="../parts_/1.png" alt="" class="pic-container-item" />
-          </div>
-          <div class="our-services-info">
-            <h3 class="our-services-info-title">Font-Awesome Icons</h3>
-            <p class="our-services-info-text">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              ind ustry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer.
-            </p>
-          </div>
-        </div>
-
-        <div class="our-services-card">
-          <div class="pic-container">
-            <img src="../parts_/2.png" alt="" class="pic-container-item" />
-          </div>
-          <div class="our-services-info">
-            <h3 class="our-services-info-title">Fully Responsive Design</h3>
-            <p class="our-services-info-text">
-              Many desktop publishing packages and web page editors now use
-              Lorem Ipsum as their default model text, and a search for 'lorem
-              ipsum' will uncover many web sites still in their infancy
-            </p>
-          </div>
-        </div>
-
-        <div class="our-services-card">
-          <div class="pic-container">
-            <img src="../parts_/3.png" alt="" class="pic-container-item" />
-          </div>
-          <div class="our-services-info">
-            <h3 class="our-services-info-title">Working Contact form</h3>
-            <p class="our-services-info-text">
-              Many desktop publishing packages and web page editors now use
-              Lorem Ipsum as their default model text, and a search for 'lorem
-              ipsum' will un cover many web sites still in their infancy
-            </p>
-          </div>
-        </div>
-
-        <div class="our-services-card">
-          <div class="pic-container">
-            <img src="../parts_/4.png" alt="" class="pic-container-item" />
-          </div>
-          <div class="our-services-info">
-            <h3 class="our-services-info-title">Retina Ready icons here</h3>
-            <p class="our-services-info-text">
-              There are many variations of passages of Lorem Ipsum available,
-              but the majority have suffered alteration in some form, by
-              injected humour or randomised words which don't look even slightly
-              believable. If you are going to use a passage of Lorem Ipsum, you
-              need to be sure there isn't anything
-            </p>
-          </div>
-        </div>
-
-        <div class="our-services-card">
-          <div class="pic-container">
-            <img src="../parts_/5.png" alt="" class="pic-container-item" />
-          </div>
-          <div class="our-services-info">
-            <h3 class="our-services-info-title">Friendly Code</h3>
-            <p class="our-services-info-text">
-              Finibus Bonorum et Malorum" by Cicero are also reproduced in their
-              exact original form, accompanied by English versions from the 1914
-              translation by H. Rackham
-            </p>
-          </div>
-        </div>
-
-        <div class="our-services-card">
-          <div class="pic-container">
-            <img src="../parts_/6.png" alt="" class="pic-container-item" />
-          </div>
-          <div class="our-services-info">
-            <h3 class="our-services-info-title">
-              Flat trendy landing page Design
-            </h3>
-            <p class="our-services-info-text">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer.
-            </p>
-          </div>
-        </div>
-      </div>
+  <div class="our-services-container">
+    <div class="our-services-title-info">
+      <h1 class="our-services-title">OUR SERVICES</h1>
+      <p1 class="our-services-text-info">Lorem Ipsum is simply dummy Business industry.</p1>
     </div>
+    <div class="our-services">
+      <div class="our-services-card">
+        <div class="pic-container">
+          <img src="../parts_/1.png" alt="" class="pic-container-item" />
+        </div>
+        <div class="our-services-info">
+          <h3 class="our-services-info-title">Font-Awesome Icons</h3>
+          <p class="our-services-info-text">
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            ind ustry. Lorem Ipsum has been the industry's standard dummy text
+            ever since the 1500s, when an unknown printer.
+          </p>
+        </div>
+      </div>
 
-    <div class="about-us-container">
-      <div class="about-us">
-        <div class="about-us-pic-container"></div>
-        <div class="about-us-text-info">
-          <h1 class="about-us-title">ABout us</h1>
-          <p class="about-us-text">
+      <div class="our-services-card">
+        <div class="pic-container">
+          <img src="../parts_/2.png" alt="" class="pic-container-item" />
+        </div>
+        <div class="our-services-info">
+          <h3 class="our-services-info-title">Fully Responsive Design</h3>
+          <p class="our-services-info-text">
+            Many desktop publishing packages and web page editors now use
+            Lorem Ipsum as their default model text, and a search for 'lorem
+            ipsum' will uncover many web sites still in their infancy
+          </p>
+        </div>
+      </div>
+
+      <div class="our-services-card">
+        <div class="pic-container">
+          <img src="../parts_/3.png" alt="" class="pic-container-item" />
+        </div>
+        <div class="our-services-info">
+          <h3 class="our-services-info-title">Working Contact form</h3>
+          <p class="our-services-info-text">
+            Many desktop publishing packages and web page editors now use
+            Lorem Ipsum as their default model text, and a search for 'lorem
+            ipsum' will un cover many web sites still in their infancy
+          </p>
+        </div>
+      </div>
+
+      <div class="our-services-card">
+        <div class="pic-container">
+          <img src="../parts_/4.png" alt="" class="pic-container-item" />
+        </div>
+        <div class="our-services-info">
+          <h3 class="our-services-info-title">Retina Ready icons here</h3>
+          <p class="our-services-info-text">
+            There are many variations of passages of Lorem Ipsum available,
+            but the majority have suffered alteration in some form, by
+            injected humour or randomised words which don't look even slightly
+            believable. If you are going to use a passage of Lorem Ipsum, you
+            need to be sure there isn't anything
+          </p>
+        </div>
+      </div>
+
+      <div class="our-services-card">
+        <div class="pic-container">
+          <img src="../parts_/5.png" alt="" class="pic-container-item" />
+        </div>
+        <div class="our-services-info">
+          <h3 class="our-services-info-title">Friendly Code</h3>
+          <p class="our-services-info-text">
+            Finibus Bonorum et Malorum" by Cicero are also reproduced in their
+            exact original form, accompanied by English versions from the 1914
+            translation by H. Rackham
+          </p>
+        </div>
+      </div>
+
+      <div class="our-services-card">
+        <div class="pic-container">
+          <img src="../parts_/6.png" alt="" class="pic-container-item" />
+        </div>
+        <div class="our-services-info">
+          <h3 class="our-services-info-title">
+            Flat trendy landing page Design
+          </h3>
+          <p class="our-services-info-text">
             Lorem Ipsum is simply dummy text of the printing and typesetting
             industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book. It has survived not
-            only five centuries, but also the leap into electronic typesetting,
-            remaining essentially unchanged. It was popularised in the ore
-            recently with desktop publishing software like Aldus PageMaker
-            including versions of Lorem Ipsum
-          </p>
-          <button class="about-us-button">Read more</button>
-        </div>
-      </div>
-    </div>
-
-    <div class="price-container-background">
-      <div class="price-content">
-        <div class="price-text-info">
-          <h1 class="price-title">Choose your price</h1>
-          <p class="price-text">
-            Lorem Ipsum is simply dummy text of the printing typesetting.
+            ever since the 1500s, when an unknown printer.
           </p>
         </div>
+      </div>
+    </div>
+  </div>
 
-        <div class="price-card-container">
-          <div class="price-card">
-            <h1 class="card-title">Basic Plan</h1>
-            <div class="card-price-container">
-              <p class="card-price-info">$22</p>
-              <p class="card-price-text">per month</p>
-              <div class="card-price-description">
-                <p class="pcard-price-description-text">1 account</p>
-                <p class="pcard-price-description-text">8 hours support</p>
-                <p class="pcard-price-description-text">
-                  Custom cloud services
-                </p>
-              </div>
-              <button class="price-card-button">get started</button>
-            </div>
-          </div>
+  <div class="about-us-container">
+    <div class="about-us">
+      <div class="about-us-pic-container"></div>
+      <div class="about-us-text-info">
+        <h1 class="about-us-title">ABout us</h1>
+        <p class="about-us-text">
+          Lorem Ipsum is simply dummy text of the printing and typesetting
+          industry. Lorem Ipsum has been the industry's standard dummy text
+          ever since the 1500s, when an unknown printer took a galley of type
+          and scrambled it to make a type specimen book. It has survived not
+          only five centuries, but also the leap into electronic typesetting,
+          remaining essentially unchanged. It was popularised in the ore
+          recently with desktop publishing software like Aldus PageMaker
+          including versions of Lorem Ipsum
+        </p>
+        <button class="about-us-button">Read more</button>
+      </div>
+    </div>
+  </div>
 
-          <div class="price-card">
-            <h1 class="card-title">Premium plan</h1>
-            <div class="card-price-container">
-              <p class="card-price-info">
-                <span class="card-price-info-dollar">$</span>42
+  <div class="price-container-background">
+    <div class="price-content">
+      <div class="price-text-info">
+        <h1 class="price-title">Choose your price</h1>
+        <p class="price-text">
+          Lorem Ipsum is simply dummy text of the printing typesetting.
+        </p>
+      </div>
+
+      <div class="price-card-container">
+        <div class="price-card">
+          <h1 class="card-title">Basic Plan</h1>
+          <div class="card-price-container">
+            <p class="card-price-info">$22</p>
+            <p class="card-price-text">per month</p>
+            <div class="card-price-description">
+              <p class="pcard-price-description-text">1 account</p>
+              <p class="pcard-price-description-text">8 hours support</p>
+              <p class="pcard-price-description-text">
+                Custom cloud services
               </p>
-              <p class="card-price-text">per month</p>
-              <div class="card-price-description">
-                <p class="pcard-price-description-text">2 accounts</p>
-                <p class="pcard-price-description-text">100MB Storage</p>
-                <p class="pcard-price-description-text">
-                  Custom cloud services
-                </p>
-              </div>
-              <button class="price-card-button">get started</button>
             </div>
+            <button class="price-card-button">get started</button>
           </div>
+        </div>
 
-          <div class="price-card">
-            <h1 class="card-title">Gold Plan</h1>
-            <div class="card-price-container">
-              <p class="card-price-info">$62</p>
-              <p class="card-price-text">per month</p>
-              <div class="card-price-description">
-                <p class="pcard-price-description-text">8 accounts</p>
-                <p class="pcard-price-description-text">24 hour support</p>
-                <p class="pcard-price-description-text">
-                  Custom Cloud Services
-                </p>
-              </div>
-              <button class="price-card-button">get started</button>
+        <div class="price-card">
+          <h1 class="card-title">Premium plan</h1>
+          <div class="card-price-container">
+            <p class="card-price-info">
+              <span class="card-price-info-dollar">$</span>42
+            </p>
+            <p class="card-price-text">per month</p>
+            <div class="card-price-description">
+              <p class="pcard-price-description-text">2 accounts</p>
+              <p class="pcard-price-description-text">100MB Storage</p>
+              <p class="pcard-price-description-text">
+                Custom cloud services
+              </p>
             </div>
+            <button class="price-card-button">get started</button>
+          </div>
+        </div>
+
+        <div class="price-card">
+          <h1 class="card-title">Gold Plan</h1>
+          <div class="card-price-container">
+            <p class="card-price-info">$62</p>
+            <p class="card-price-text">per month</p>
+            <div class="card-price-description">
+              <p class="pcard-price-description-text">8 accounts</p>
+              <p class="pcard-price-description-text">24 hour support</p>
+              <p class="pcard-price-description-text">
+                Custom Cloud Services
+              </p>
+            </div>
+            <button class="price-card-button">get started</button>
           </div>
         </div>
       </div>
     </div>
+  </div>
 
-    <div class="how-it-works-container">
-      <div class="how-it-works-content">
-        <div class="how-it-works-text">
-          <h1 class="how-it-works-title">How it works</h1>
-          <p class="how-it-works-text-title">
-            Lorem Ipsum is simply dummy Business industry
-          </p>
-        </div>
-
-        <div class="how-it-works-steps">
-          <div class="step-card">
-            <div class="step-card-icon-container"></div>
-            <img src="../parts_/step1.png" alt="" class="step-card-icon-pic" />
-            <div class="step-card-text-info">
-              <h3 class="step-card-title">Step 1</h3>
-
-              <p class="step-card-text">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                ind ustry. Lorem Ipsum has been
-              </p>
-            </div>
-          </div>
-          <div class="step-arrow">
-            <img src="../parts_/Arrow_1.png" alt="" class="step-arrow-img" />
-          </div>
-
-          <div class="step-card">
-            <div class="step-card-icon-container"></div>
-            <img src="../parts_/step2.png" alt="" class="step-card-icon-pic" />
-            <div class="step-card-text-info">
-              <h3 class="step-card-title">Step 2</h3>
-
-              <p class="step-card-text">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                ind ustry. Lorem Ipsum has been
-              </p>
-            </div>
-          </div>
-
-          <div class="step-arrow-middle">
-            <img src="../parts_/Arrow_2.png" alt="" class="step-arrow-img" />
-          </div>
-
-          <div class="step-card">
-            <div class="step-card-icon-container"></div>
-            <img src="../parts_/step3.png" alt="" class="step-card-icon-pic" />
-            <div class="step-card-text-info">
-              <h3 class="step-card-title">Step 3</h3>
-
-              <p class="step-card-text">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                ind ustry. Lorem Ipsum has been
-              </p>
-            </div>
-          </div>
-          <div class="step-arrow">
-            <img src="../parts_/Arrow_3.png" alt="" class="step-arrow-img" />
-          </div>
-
-          <div class="step-card">
-            <div class="step-card-icon-container"></div>
-            <img src="../parts_/step4.png" alt="" class="step-card-icon-pic" />
-            <div class="step-card-text-info">
-              <h3 class="step-card-title">Step 4</h3>
-
-              <p class="step-card-text">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                ind ustry. Lorem Ipsum has been
-              </p>
-            </div>
-          </div>
-        </div>
+  <div class="how-it-works-container">
+    <div class="how-it-works-content">
+      <div class="how-it-works-text">
+        <h1 class="how-it-works-title">How it works</h1>
+        <p class="how-it-works-text-title">
+          Lorem Ipsum is simply dummy Business industry
+        </p>
       </div>
-      <div class="button-container">
-        <button class="steps-button">GET START NOW</button>
-      </div>
-    </div>
 
-    <div class="happy-clients-section">
-      <div class="happy-clients-info">
-        <div class="happy-clients-text-section">
-          <h1 class="happy-clients-title">Happy Clients</h1>
-          <p class="happy-clients-text">
-            We are explain who is using our business solutions
-          </p>
+      <div class="how-it-works-steps">
+        <div class="step-card">
+          <div class="step-card-icon-container"></div>
+          <img src="../parts_/step1.png" alt="" class="step-card-icon-pic" />
+          <div class="step-card-text-info">
+            <h3 class="step-card-title">Step 1</h3>
+
+            <p class="step-card-text">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              ind ustry. Lorem Ipsum has been
+            </p>
+          </div>
+        </div>
+        <div class="step-arrow">
+          <img src="../parts_/Arrow_1.png" alt="" class="step-arrow-img" />
         </div>
 
-        <div class="clients-container">
-          <div class="client-card">
-            <div class="client-card-img-container">
-              <img src="../parts_/Face.png" alt="" class="client-card-pic" />
-            </div>
+        <div class="step-card">
+          <div class="step-card-icon-container"></div>
+          <img src="../parts_/step2.png" alt="" class="step-card-icon-pic" />
+          <div class="step-card-text-info">
+            <h3 class="step-card-title">Step 2</h3>
 
-            <div class="client-card-text-block">
-              <p class="client-card-text-info">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industrystandard dummy text
-                ever since the 1500s, wen an unknown printer took a galley of
-                type and scrambled to make a type specimen book.
-              </p>
-
-              <p class="client-card-text-bio">
-                <span class="special-text-bio">Darwin Michle,</span> Project
-                manager
-              </p>
-            </div>
+            <p class="step-card-text">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              ind ustry. Lorem Ipsum has been
+            </p>
           </div>
+        </div>
 
-          <div class="client-card">
-            <div class="client-card-img-container">
-              <img src="../parts_/Face2.png" alt="" class="client-card-pic" />
-            </div>
+        <div class="step-arrow-middle">
+          <img src="../parts_/Arrow_2.png" alt="" class="step-arrow-img" />
+        </div>
 
-            <div class="client-card-text-block">
-              <p class="client-card-text-info">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industrystandard dummy text
-                ever since the 1500s, wen an unknown printer took a galley of
-                type and scrambled to make a type specimen book.
-              </p>
+        <div class="step-card">
+          <div class="step-card-icon-container"></div>
+          <img src="../parts_/step3.png" alt="" class="step-card-icon-pic" />
+          <div class="step-card-text-info">
+            <h3 class="step-card-title">Step 3</h3>
 
-              <p class="client-card-text-bio">
-                <span class="special-text-bio">Madam Elisabath,</span> Creative
-                Director
-              </p>
-            </div>
+            <p class="step-card-text">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              ind ustry. Lorem Ipsum has been
+            </p>
           </div>
+        </div>
+        <div class="step-arrow">
+          <img src="../parts_/Arrow_3.png" alt="" class="step-arrow-img" />
+        </div>
 
-          <div class="client-card">
-            <div class="client-card-img-container">
-              <img src="../parts_/Face3.png" alt="" class="client-card-pic" />
-            </div>
+        <div class="step-card">
+          <div class="step-card-icon-container"></div>
+          <img src="../parts_/step4.png" alt="" class="step-card-icon-pic" />
+          <div class="step-card-text-info">
+            <h3 class="step-card-title">Step 4</h3>
 
-            <div class="client-card-text-block">
-              <p class="client-card-text-info">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industrystandard dummy text
-                ever since the 1500s, wen an unknown printer took a galley of
-                type and scrambled to make a type specimen book.
-              </p>
-
-              <p class="client-card-text-bio">
-                <span class="special-text-bio">Clips arter,</span> Lipsum
-                directer
-              </p>
-            </div>
-          </div>
-
-          <div class="client-card">
-            <div class="client-card-img-container">
-              <img src="../parts_/Face4.png" alt="" class="client-card-pic" />
-            </div>
-
-            <div class="client-card-text-block">
-              <p class="client-card-text-info">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industrystandard dummy text
-                ever since the 1500s, wen an unknown printer took a galley of
-                type and scrambled to make a type specimen book.
-              </p>
-
-              <p class="client-card-text-bio">
-                <span class="special-text-bio">zam cristafr,</span> manager
-              </p>
-            </div>
+            <p class="step-card-text">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              ind ustry. Lorem Ipsum has been
+            </p>
           </div>
         </div>
       </div>
     </div>
+    <div class="button-container">
+      <button class="steps-button">GET START NOW</button>
+    </div>
+  </div>
 
-    <div class="news-container">
-      <div class="news-info-block">
-        <div class="news-info-text">
-          
+  <div class="happy-clients-section">
+    <div class="happy-clients-info">
+      <div class="happy-clients-text-section">
+        <h1 class="happy-clients-title">Happy Clients</h1>
+        <p class="happy-clients-text">
+          We are explain who is using our business solutions
+        </p>
+      </div>
+
+      <div class="clients-container">
+        <div class="client-card">
+          <div class="client-card-img-container">
+            <img src="../parts_/Face.png" alt="" class="client-card-pic" />
+          </div>
+
+          <div class="client-card-text-block">
+            <p class="client-card-text-info">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industrystandard dummy text
+              ever since the 1500s, wen an unknown printer took a galley of
+              type and scrambled to make a type specimen book.
+            </p>
+
+            <p class="client-card-text-bio">
+              <span class="special-text-bio">Darwin Michle,</span> Project
+              manager
+            </p>
+          </div>
+        </div>
+
+        <div class="client-card">
+          <div class="client-card-img-container">
+            <img src="../parts_/Face2.png" alt="" class="client-card-pic" />
+          </div>
+
+          <div class="client-card-text-block">
+            <p class="client-card-text-info">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industrystandard dummy text
+              ever since the 1500s, wen an unknown printer took a galley of
+              type and scrambled to make a type specimen book.
+            </p>
+
+            <p class="client-card-text-bio">
+              <span class="special-text-bio">Madam Elisabath,</span> Creative
+              Director
+            </p>
+          </div>
+        </div>
+
+        <div class="client-card">
+          <div class="client-card-img-container">
+            <img src="../parts_/Face3.png" alt="" class="client-card-pic" />
+          </div>
+
+          <div class="client-card-text-block">
+            <p class="client-card-text-info">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industrystandard dummy text
+              ever since the 1500s, wen an unknown printer took a galley of
+              type and scrambled to make a type specimen book.
+            </p>
+
+            <p class="client-card-text-bio">
+              <span class="special-text-bio">Clips arter,</span> Lipsum
+              directer
+            </p>
+          </div>
+        </div>
+
+        <div class="client-card">
+          <div class="client-card-img-container">
+            <img src="../parts_/Face4.png" alt="" class="client-card-pic" />
+          </div>
+
+          <div class="client-card-text-block">
+            <p class="client-card-text-info">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industrystandard dummy text
+              ever since the 1500s, wen an unknown printer took a galley of
+              type and scrambled to make a type specimen book.
+            </p>
+
+            <p class="client-card-text-bio">
+              <span class="special-text-bio">zam cristafr,</span> manager
+            </p>
+          </div>
         </div>
       </div>
     </div>
-  </body>
+  </div>
+
+  <div class="news-container">
+
+    <div class="news-info-block">
+      <div class="news-info-text">
+        <h1 class="news-info-text-title">newsletter</h1>
+        <p class="news-info-text-descr">Lorem Ipsum is simply dummy Business industry</p>
+      </div>
+    </div>
+
+    <div class="input-type-container">
+      <input type="text" class="news-info-input">
+      <input type="text" class="news-info-input">
+      <input type="text" class="news-info-input">
+    </div>
+  </div>
+
+</body>
+
 </html>
