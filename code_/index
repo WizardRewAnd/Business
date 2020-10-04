@@ -444,6 +444,12 @@
 
   </div>
 
+  <div class="contact-info-container">
+    <div class="contact-info-background">
+      <div class="contact-shape"></div>
+    </div>
+  </div>
+
 </body>
 
 </html>

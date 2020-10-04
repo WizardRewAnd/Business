@@ -718,7 +718,7 @@ button:hover {
 }
 
 .news-info-block {
-  margin: 150px auto;
+  margin: 150px auto 40px;
   width: 100%;
   max-width: 1100px;
   text-align: center;
@@ -738,7 +738,6 @@ button:hover {
 }
 
 .news-info-text-descr {
-  ont-family: OpenSans;
   font-size: 16px;
   font-weight: 300;
   font-stretch: normal;
@@ -752,7 +751,7 @@ button:hover {
 .news-container {
   margin: 0 auto;
   width: 100%;
-  max-width: 980px;
+  max-width: 1030px;
   text-align: center;
   -webkit-box-align: center;
       -ms-flex-align: center;
@@ -769,12 +768,17 @@ button:hover {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  margin: 0 0 50px 0;
 }
 
 .info-name {
   width: 308px;
   border: solid 1px #cbcbcb;
   background-color: #ffffff;
+  background-image: url("../parts_/name.png");
+  background-position: 15px 15px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
 }
 
 .info-email-address {
@@ -782,6 +786,10 @@ button:hover {
   border-radius: 2px;
   border: solid 1px #cbcbcb;
   background-color: #ffffff;
+  background-image: url("../parts_/mail.png");
+  background-position: 15px 16px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
 }
 
 .email-button {
@@ -803,5 +811,24 @@ button:hover {
   font-size: 16px;
   color: #a9a9a9;
   resize: none;
+}
+
+.contact-info-container {
+  margin: 0 auto;
+  max-width: 1100px;
+}
+
+.contact-info-background {
+  background-image: url("../parts_/map.svg");
+  background-repeat: no-repeat;
+  width: 1100px;
+  height: 550px;
+}
+
+.contact-shape {
+  background-image: url("../parts_/newsf.svg");
+  background-repeat: no-repeat;
+  width: 40px;
+  height: 40px;
 }
 /*# sourceMappingURL=input.css.map */
