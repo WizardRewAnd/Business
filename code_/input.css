@@ -34,14 +34,14 @@ button:hover {
   padding: 5px 13px 5px 13px;
   margin-left: 15px;
   background-color: white;
-  font-family: Lato;
+  font-family: sans-serif;
   text-transform: uppercase;
   font-size: 14px;
 }
 
 .nav-menu-unit-link:hover {
   background-color: #ffbb42;
-  padding: 5px 13px 5px 13px;
+  padding: 7px 13px 5px 13px;
   text-align: center;
   border-radius: 5px;
   color: white;
@@ -715,5 +715,93 @@ button:hover {
 
 .special-text-bio {
   color: #f6772c;
+}
+
+.news-info-block {
+  margin: 150px auto;
+  width: 100%;
+  max-width: 1100px;
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.news-info-text-title {
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  font-weight: 900;
+  color: #394b50;
+  letter-spacing: -0.75px;
+}
+
+.news-info-text-descr {
+  ont-family: OpenSans;
+  font-size: 16px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.38;
+  letter-spacing: normal;
+  text-align: center;
+  color: #394b50;
+}
+
+.news-container {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 980px;
+  text-align: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.input-type-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.info-name {
+  width: 308px;
+  border: solid 1px #cbcbcb;
+  background-color: #ffffff;
+}
+
+.info-email-address {
+  width: 388px;
+  border-radius: 2px;
+  border: solid 1px #cbcbcb;
+  background-color: #ffffff;
+}
+
+.email-button {
+  border: none;
+  width: 226px;
+  height: 45px;
+  border-radius: 2px;
+  font-size: 14px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: #ffbb42;
+}
+
+.news {
+  border: solid 1px #cbcbcb;
+  height: 42px;
+  border-radius: 2px;
+  font-size: 16px;
+  color: #a9a9a9;
+  resize: none;
 }
 /*# sourceMappingURL=input.css.map */

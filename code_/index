@@ -55,6 +55,7 @@
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum typesetting
       </p>
+
       <div class="registration-container-registration-section">
         <input class="registration name-field" type="text" name="full_name" placeholder="Full Name" />
 
@@ -436,10 +437,11 @@
     </div>
 
     <div class="input-type-container">
-      <input type="text" class="news-info-input">
-      <input type="text" class="news-info-input">
-      <input type="text" class="news-info-input">
+      <input type="text" class="news info-name" placeholder="Name">
+      <input type="email" class="news info-email-address" placeholder="Email Address">
+      <button class="email-button">Subscribe now</button>
     </div>
+
   </div>
 
 </body>
