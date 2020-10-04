@@ -826,9 +826,16 @@ button:hover {
 }
 
 .contact-shape {
-  background-image: url("../parts_/newsf.svg");
-  background-repeat: no-repeat;
-  width: 40px;
-  height: 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.pic-contact-info {
+  display: inline-block;
+  margin-top: 40px;
 }
 /*# sourceMappingURL=input.css.map */

@@ -446,7 +446,9 @@
 
   <div class="contact-info-container">
     <div class="contact-info-background">
-      <div class="contact-shape"></div>
+      <div class="contact-shape">
+        <img src="../parts_/newsf.svg" alt="" class="pic-contact-info" />
+      </div>
     </div>
   </div>
 
