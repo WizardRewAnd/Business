@@ -753,3 +753,7 @@ button:hover {
   display: inline-block;
   margin-top: 40px;
 }
+
+.contact-into-container {
+  margin: 0 auto;
+}
